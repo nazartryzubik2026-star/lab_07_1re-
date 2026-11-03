@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF691530-5A25-7ECA-CEC3-AF4F3B076243}|UnitTest7_1.rec\\UnitTest7_1.rec.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\UnitTest7_1.rec\\UnitTest7_1.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF691530-5A25-7ECA-CEC3-AF4F3B076243}|UnitTest7_1.rec\\UnitTest7_1.rec.vcxproj|solutionrelative:UnitTest7_1.rec\\UnitTest7_1.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8860BE-7BC9-4457-9E64-5B6E4CC381B8}|Lab_7_1.rec\\Lab_7_1.rec.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\Lab_7_1.rec\\Lab_7_1.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8860BE-7BC9-4457-9E64-5B6E4CC381B8}|Lab_7_1.rec\\Lab_7_1.rec.vcxproj|solutionrelative:Lab_7_1.rec\\Lab_7_1.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest7_1.rec.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\UnitTest7_1.rec\\UnitTest7_1.rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest7_1.rec\\UnitTest7_1.rec.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\UnitTest7_1.rec\\UnitTest7_1.rec.cpp",
+              "RelativeToolTip": "UnitTest7_1.rec\\UnitTest7_1.rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T10:45:34.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_7_1.rec.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\Lab_7_1.rec\\Lab_7_1.rec.cpp",
+              "RelativeDocumentMoniker": "Lab_7_1.rec\\Lab_7_1.rec.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\\u041B\u0430\u0431\u0438\\Lab_7_1.rec\\Lab_7_1.rec\\Lab_7_1.rec.cpp",
+              "RelativeToolTip": "Lab_7_1.rec\\Lab_7_1.rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T10:36:24.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
